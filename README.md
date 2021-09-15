@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eric-zhizu
 - 👀 I’m interested in full-stack web development and machine learning
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on socially-conscious web projects
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: zhou.eric.y@gmail.com
 
 <!---
